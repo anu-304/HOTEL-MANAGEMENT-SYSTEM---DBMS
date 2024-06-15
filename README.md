@@ -10,4 +10,4 @@ You can Check In, Check Out room status, update customer and employee details in
 
 HOW TO RUN?
 
-Run main.py file
+HMS.ipynb file
